@@ -1,6 +1,6 @@
 @extends('adminlte::page')
 
-@section('title', 'ImóvelCerto')
+@section('title', 'Super Reparos')
 
 @section('content_header')
     <h1><i class="fas fa-bars"></i>  Listar Manutenções</h1>

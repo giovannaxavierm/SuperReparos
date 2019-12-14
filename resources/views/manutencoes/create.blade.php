@@ -1,6 +1,6 @@
 @extends('adminlte::page')
 
-@section('title', 'ImóvelSJC')
+@section('title', 'Super Reparos - Inserir')
 
 @section('content_header')
 <h1><i class="fas fa-fx fa-user"></i> Inclusao de Manuteção</h1>
